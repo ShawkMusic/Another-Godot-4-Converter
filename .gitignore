@@ -1,2 +1,3 @@
 # Useful for qucik-testing the converter without making mess. Usage: .\main.rb --path Test --debug
 Test/
+*.kate-swp
